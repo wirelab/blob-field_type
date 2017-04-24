@@ -1,6 +1,27 @@
 {
     "name": "wirelab/blob-field_type",
     "type": "streams-addon",
+    "description": "Blob field type for PyroCMS 3.",
+    "keywords": [
+        "wirelab",
+        "Blob",
+        "pyrocms",
+        "pyrocms 3",
+        "Blob field type"
+    ],
+    "homepage": "http://wirelab.nl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wirelab",
+            "email": "algemeen@wirelab.nl",
+            "homepage": "http://www.wirelab.nl/",
+            "role": "Owner"
+        }
+    ],
+    "support": {
+        "email": "algemeen@wirelab.nl"
+    },
     "autoload": {
         "psr-4": {
             "Wirelab\\BlobFieldType\\": "src/"
