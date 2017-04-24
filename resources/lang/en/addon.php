@@ -3,5 +3,5 @@
 return [
     'title'       => 'Blob',
     'name'        => 'Blob Field Type',
-    'description' => ''
+    'description' => 'Blob field type for PyroCMS 3'
 ];
